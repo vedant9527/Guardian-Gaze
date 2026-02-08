@@ -1,6 +1,6 @@
 # GuardianGaze: Anomaly-Based Network Intrusion Detection System
 
-GuardianGaze is an anomaly-based NIDS that uses a nove approach combining percolation theory inspired thresholding with machine learning classifiers to reduce the amount of traffic that requires deep analysis. The goal is to keep detection accurate while lowering computational burden on high‑throughput networks.
+GuardianGaze is an anomaly-based NIDS that uses a novel approach combining percolation theory inspired thresholding with machine learning classifiers to reduce the amount of traffic that requires deep analysis. The goal is to keep detection accurate while lowering computational burden on high‑throughput networks.
 
 What’s In This Repo
 - `guitest5.py`: Prototype GUI with packet capture and a `PercolationAnomalyDetector` class.
